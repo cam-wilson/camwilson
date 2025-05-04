@@ -2,7 +2,7 @@
 home
 
 # 💫 About Me:
-I'm currently working on a Computer Science Bachelor's Degree at Columbia University <br>I'm interested in AI, MacOS/iOS, Financial Software Development<br>
+I'm currently working on a Computer Science Bachelor's Degree at Columbia University <br>I'm interested in AI, MacOS/iOS, Networking, Financial Software Development, and IT <br>
 
 
 ## 🌐 Socials:
